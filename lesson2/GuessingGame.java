@@ -15,7 +15,7 @@ public class GuessingGame {
 
             int guess = input.nextInt();
 
-            System.out.printf("You guessed: %d", guess);
+            System.out.printf("You guessed: %d%n", guess);
 
             if(guess < secret_number) {
                 System.out.println("Too small!");
