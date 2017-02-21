@@ -1,4 +1,5 @@
 package lesson2;
+//Remove the above line if it errors i.e. you didn't put this in a package
 
 import java.util.Scanner;
 
